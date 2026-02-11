@@ -22,3 +22,9 @@ Then it **elaborates** the entity defined by `$TB_ENTITY`
 Finally, the workflow **runs** the simulation. If successful then it will quietly exit with a `0` code.
 If any of the `assert` statements fail then GHDL will cease the simulation and exit with non-zero code; this will also cause the workflow to fail.
 Assert statements of other severity levels will be reported, but not fail the workflow.
+
+![Sketch of top_basys3 entity](rippleAdderEntitySketch.png)
+![Ripple adder waveform](rippleAdderWaveform.png)
+
+## Documentation
+C3C Joe Kim helped me with syntax for the top level port mapping. Otherwise none.
