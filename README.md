@@ -27,4 +27,4 @@ Assert statements of other severity levels will be reported, but not fail the wo
 ![Ripple adder waveform](rippleAdderWaveform.png)
 
 ## Documentation
-C3C Joe Kim helped me with syntax for the top level port mapping. Otherwise none.
+C3C Joe Kim helped me with syntax for the top level port mapping. I asked ChatGPT how to make sure my pngs were showing up in my repository (I went to gitignore, specified not to ignore them and pushed to GitHub).
