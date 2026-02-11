@@ -2,6 +2,10 @@
 # start by ignore everything, un-ignore specifics
 *
 
+# don't ignore the images I made
+!rippleAdderEntitySketch.png
+!rippleAdderWaveform.png
+
 # never ignore itself
 !.gitignore
 
